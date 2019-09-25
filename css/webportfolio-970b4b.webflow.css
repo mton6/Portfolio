@@ -825,6 +825,11 @@ body {
   margin-top: 15px;
   border-radius: 20px;
   background-color: #f7c6ab;
+  color: #444;
+}
+
+.button:hover {
+  box-shadow: 1px 1px 3px 0 #000;
 }
 
 .button.linked {
