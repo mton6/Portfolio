@@ -287,7 +287,6 @@ body {
 
 .link-block {
   position: absolute;
-  z-index: 100;
   width: 300px;
   height: 500px;
   background-color: transparent;
