@@ -188,7 +188,7 @@ body {
 
 .lottie-animation {
   overflow: hidden;
-  width: 800px;
+  width: 500px;
 }
 
 .columns-2 {
@@ -527,7 +527,7 @@ body {
 }
 
 .section-3.video {
-  margin-top: 0px;
+  margin-top: 128px;
 }
 
 .heading-6 {
@@ -848,6 +848,8 @@ body {
   display: inline-block;
   width: 100%;
   height: 500px;
+  padding-right: 20px;
+  padding-left: 20px;
   border-radius: 20px;
   background-color: rgba(247, 198, 171, 0.9);
   opacity: 0.01;
@@ -1105,6 +1107,7 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  padding-left: 60px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
